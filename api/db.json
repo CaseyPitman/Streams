@@ -1,3 +1,14 @@
 {
-  "streams": []
+  "streams": [
+    {
+      "title": "bladj",
+      "description": "dlf jdalfjaldfj",
+      "id": 1
+    },
+    {
+      "title": "plork",
+      "description": "plonk",
+      "id": 2
+    }
+  ]
 }
