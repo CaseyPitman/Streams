@@ -1,5 +1,5 @@
 import React from "react";
-import { BrowserRouter, Route} from "react-router-dom";
+import { BrowserRouter, Route } from "react-router-dom";
 
 // Components
 import Header from "./Header";
@@ -11,7 +11,7 @@ import StreamShow from "./streams/StreamShow";
 
 const App = () => {
   return (
-    <div className='ui container'>
+    <div className='ui container' style={{ marginTop: "5px" }}>
       <BrowserRouter>
         <div>
           <Header />
