@@ -1,11 +1,6 @@
 {
   "streams": [
     {
-      "title": "bladj",
-      "description": "dlf jdalfjaldfj",
-      "id": 1
-    },
-    {
       "title": "plork",
       "description": "plonk",
       "id": 2
@@ -22,16 +17,10 @@
       "id": 4
     },
     {
-      "title": "testing user id",
-      "description": "user id is attached to this stream",
+      "title": "new stream here",
+      "description": "this is a new stream to test router push",
       "userId": "116321466419158655146",
-      "id": 5
-    },
-    {
-      "title": "testing user id",
-      "description": "user id is attached to this stream",
-      "userId": "116321466419158655146",
-      "id": 6
+      "id": 7
     }
   ]
 }
