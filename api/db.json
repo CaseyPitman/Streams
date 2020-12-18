@@ -21,6 +21,12 @@
       "description": "this is a new stream to test router push",
       "userId": "116321466419158655146",
       "id": 7
+    },
+    {
+      "title": "Test create stream refactor",
+      "description": "testing the refactor",
+      "userId": "116321466419158655146",
+      "id": 8
     }
   ]
 }
