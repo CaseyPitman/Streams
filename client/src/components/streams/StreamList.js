@@ -32,7 +32,11 @@ class StreamList extends React.Component {
           {this.renderAdmin(stream)}
           <i className='large middle aligned icon camera' />
           <div className='content'>
-            <h3 style={{ marginBottom: "0px" }}>{stream.title}</h3>
+            <h3 style={{ marginBottom: "0px" }}>
+              <Link to={`/streams/${stream.id}`} className='header'>
+                {stream.title}
+              </Link>
+            </h3>
             <div className='description'>{stream.description}</div>
           </div>
         </div>
